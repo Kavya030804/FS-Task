@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+}
+#yellow{
+    background-color: yellow;
+    border-radius: 4px;
+    border: 2px solid black;
+    margin: 4px;
+    height: 80px;
+    width: 80px;
+
+}
+#green{
+    background-color: green;
+    border-radius: 4px;
+    border: 2px solid black;
+    margin: 4px;
+    height: 80px;
+    width: 80px;
+    
+}
+#blue{
+    background-color: blue;
+    border-radius: 4px;
+    border: 2px solid black;
+    margin: 4px;
+    height: 80px;
+    width: 80px;
+    /* float: ; */
+}
+#red{
+    background-color: red;
+    border-radius: 4px;
+    border: 2px solid black;
+    margin: 4px;
+    height: 80px;
+    width: 80px;
+}
